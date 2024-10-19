@@ -9,3 +9,8 @@ DATABASE_URL= database_url
 ```
 docker compose up
 ```
+
+### In terminal
+```
+docker exec -it container_id_for_service npx prisma migrate dev --name init
+```
