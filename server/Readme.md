@@ -5,6 +5,7 @@
 DATABASE_URL= database_url
 ```
 
+## Run
 ```
 docker compose up
 ```
