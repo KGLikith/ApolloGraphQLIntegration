@@ -3,7 +3,4 @@ A  starter project for building GraphQL APIs using Apollo Server and Client. Thi
 
 Run Locally
 
-## Add .env file in server folder
-```
-DATABASE_URL= database_url
-```
+## Checkout [Server side](https://github.com/KGLikith/ApolloGraphQLIntegration/blob/main/server/Readme.md) for more information
