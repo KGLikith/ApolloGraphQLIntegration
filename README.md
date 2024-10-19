@@ -3,4 +3,10 @@ A  starter project for building GraphQL APIs using Apollo Server and Client. Thi
 
 Run Locally
 
-## Checkout [Server side](https://github.com/KGLikith/ApolloGraphQLIntegration/blob/main/server/Readme.md) for more information
+## Checkout [Server side readme](https://github.com/KGLikith/ApolloGraphQLIntegration/blob/main/server) for more information
+
+## And then  run client side code with
+
+```
+npm run dev
+```
