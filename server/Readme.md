@@ -1,9 +1,23 @@
+# Without Docker
+
 ## Create .env file
 
 ### Add postgres database url
 ```
 DATABASE_URL= database_url
 ```
+
+### Run
+```
+npx prisma migrate dev --name init
+```
+### Production
+```
+npm run buld
+npm start
+```
+
+# With Docker
 
 ## Run
 ```
